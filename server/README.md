@@ -13,6 +13,10 @@ Setup and Installation Instructions
 
 4. If node is not installed, then install it on your machine
 
-5. To execute and run the program type the following command into your cmd window inside the server directory:
+5. run the following command to download all the necessary dependencies:
+
+    npm install
+
+6. To execute and run the program type the following command into your cmd window inside the server directory:
 
     npm run dev
