@@ -4,7 +4,7 @@ Setup and Installation Instructions
 
 2. Navigate to the cloned server directory and add a file name ".env". Inside this .env file add the following:
 
-    MONGO_DB_URI= (insert the Uri to the MongoDB you want to connect)
+    MONGO_DB_URI= (insert the Uri to the MongoDB you want to connect)<br>
     JWT_SECRET_KEY= (insert any combination of letter and numbers i.e. 'riuyt58y7854y4hfurhf3')
 
 3. Verify you have node installed by running the following command:
